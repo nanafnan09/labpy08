@@ -158,6 +158,8 @@ Setiap input pengguna dievaluasi dan operasi yang sesuai dilakukan pada daftar_n
 # Hasil
 ![](https://github.com/nanafnan09/labpy08/blob/f99571fb941ddec0080b7265246ddc0084ece6cc/OPSI%20TAMBAH%20DATA%20LAB%20PY08.png)
 
+![](https://github.com/nanafnan09/labpy08/blob/465c87c369d1b7ce5168803edef13f67af855e14/opsi%20hapus%20data%20labpy08.png)
+
 ![]()
-![]()
+
 ![]()
