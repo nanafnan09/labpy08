@@ -153,5 +153,10 @@ Setiap input pengguna dievaluasi dan operasi yang sesuai dilakukan pada daftar_n
 
 
 # Flowchart
-!()
+![](https://github.com/nanafnan09/labpy08/blob/ef9ddf902858e01db9cd96424c9f496a51b8e381/flowchart%20labpy08.png)
+
 # Hasil
+![]()
+![]()
+![]()
+![]()
