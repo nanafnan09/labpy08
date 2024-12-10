@@ -165,4 +165,5 @@ Setiap input pengguna dievaluasi dan operasi yang sesuai dilakukan pada daftar_n
 ![](https://github.com/nanafnan09/labpy08/blob/6153f9d742fee0fe9cbe32b857e83ed7f69c0137/Keluar%20data%20labpy08.png)
 
 # DIAGRAM
-![]()
+![](https://github.com/nanafnan09/labpy08/blob/0c0edfcb16cb3c57edeb27d9a0a040c01f2e332f/diagram%20lab8.png)
+
