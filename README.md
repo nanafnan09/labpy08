@@ -156,7 +156,8 @@ Setiap input pengguna dievaluasi dan operasi yang sesuai dilakukan pada daftar_n
 ![](https://github.com/nanafnan09/labpy08/blob/ef9ddf902858e01db9cd96424c9f496a51b8e381/flowchart%20labpy08.png)
 
 # Hasil
-![]()
+![](https://github.com/nanafnan09/labpy08/blob/f99571fb941ddec0080b7265246ddc0084ece6cc/OPSI%20TAMBAH%20DATA%20LAB%20PY08.png)
+
 ![]()
 ![]()
 ![]()
