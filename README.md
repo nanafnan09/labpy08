@@ -160,6 +160,6 @@ Setiap input pengguna dievaluasi dan operasi yang sesuai dilakukan pada daftar_n
 
 ![](https://github.com/nanafnan09/labpy08/blob/465c87c369d1b7ce5168803edef13f67af855e14/opsi%20hapus%20data%20labpy08.png)
 
-![]()
+![](https://github.com/nanafnan09/labpy08/blob/10b960106e6e622f1f23b743face049e6aac1817/opsi%20ubah%20data%20labpy08.png)
 
 ![]()
